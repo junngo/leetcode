@@ -21,4 +21,11 @@ typedef ArrayList List;
 void ListInit(List *plist);
 void LInsert(List *plist, LData data);
 
+int LCount(List *plist);
+
+int LFirst(List *plist, LData *pdata);
+int LNext(List *plist, LData *pdata);
+
+LData LRemove(List *plist);
+
 #endif
