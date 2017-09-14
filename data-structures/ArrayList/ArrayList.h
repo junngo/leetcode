@@ -6,7 +6,7 @@
 
 #define LIST_LEN 100
 
-typedef int LData;
+typedef int LData;	//You can use the others var or structur
 
 typedef struct __ArrayList
 {
