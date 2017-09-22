@@ -18,7 +18,7 @@ typedef struct _CLL{
 	int numOfData;
 } CList;
 
-typedef CList list;
+typedef CList List;
 
 void ListInit(List *plist);
 
@@ -29,5 +29,7 @@ int LFirst(List *plist, Data *pdata);
 int LNext(List *plist, Data *pdata);
 
 Data LRemove(List *plist);
+
+int LCount(List *plist);
 
 #endif

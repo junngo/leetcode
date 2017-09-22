@@ -6,8 +6,8 @@ void ListInit(List *plist)
 {
 	plist->tail = NULL;
 	plist->cur = NULL;
-	Plist->before = NULL;
-	numOfData = 0;
+	plist->before = NULL;
+	plist->numOfData = 0;
 }
 
 void LInsert(List *plist, Data data)
@@ -101,3 +101,7 @@ Data LRemove(List *plist)
 	return rdata;
 }
 
+int LCount(List *plist)
+{
+	return plist->numOfData;
+}
