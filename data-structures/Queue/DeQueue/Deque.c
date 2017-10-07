@@ -58,4 +58,60 @@ Data DQRemoveFirst(Deque *pdeq)
 		exit(-1);
 	}
 
+	Data tempData = pdeq->head->data;
+
+	pdeq->head = pdeq->head->next;
+	free(rnode);
+
+	if(pdeq->head == NULL)
+		pdeq->tail = NULL;
+	else
+		pdeq->head->prev = NULL;
+	
+	return tempData;
+}
+
+Data DQRemoveLast(Deque *pdeq)
+{
+	Node *rnode = pdeq->tail;
+	
+	if(DQIsEmpty(pdeq))
+	{
+		printf("DQueue is empty \n");
+		exit(-1);
+	}
+
+	Data tempData = pdeq->tail->data;
+
+	pdeq->tail = pdeq->tail->prev;
+	free(rnode);
+
+	if(pdeq->tail == NULL)
+		pdeq->head = NULL;
+	else
+		pdeq->tail->next = NULL;
+	
+	return tempData;
+}
+
+Data DQGetFirst(Deque *pdeq)
+{
+	if(DQIsEmpty(pdeq))
+	{
+		printf("DQueue is empty \n");
+		exit(-1);
+	}
+
+	return pdeq->head->data;
+}
+
+Data DQGetLast(Deque *pdeq)
+{
+	if(DQIsEmpty(pdeq))
+	{
+		printf("DQueue is empty \n");
+		exit(-1);
+	}
+
+	return pdeq->tail->data;
 }
