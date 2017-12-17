@@ -24,7 +24,7 @@ typedef struct _heap
 void HeapInit(Heap *ph);
 int HIsEmpty(Heap *ph);
 
-void HInsert(Heap *ph, HData data, Priority pr)
+void HInsert(Heap *ph, HData data, Priority pr);
 HData HDelete(Heap *pg);
 
 #endif
