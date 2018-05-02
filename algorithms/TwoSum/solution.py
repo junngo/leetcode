@@ -15,5 +15,19 @@ class Solution(object):
 					return [i, j]
 		return "no matching num"
 
-solution = Solution()
-print(solution.twoSum([2, 7, 11, 15], 9))
+
+	def twoSum2(self, nums, target):
+		j = 0
+
+		for i in nums:
+			find_data = target - i
+			j += 1
+			temp_nums = nums[j:]
+
+			if find_data in temp_nums:
+				return [j-1, temp_nums.index(find_data)+j]
+
+
+if __name__ == '__main__':
+	#print(Solution().twoSum([2, 7, 11, 15], 9))
+	print(Solution().twoSum2([2, 7, 11, 15], 9))
