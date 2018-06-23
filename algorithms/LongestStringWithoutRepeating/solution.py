@@ -15,23 +15,20 @@ class Solution(object):
 		tempString = ""
 		retStringList = []
 		sameFlag = 0
-	
+
 		for i in range(0, len(s)):
 			for j in range(0, len(tempString)):
 				if(s[i] == tempString[j]):
 					retStringList.append(tempString)
-					sameFlag = 1
-			
-			if sameFlag == 1:
-				tempString = ""
-				sameFlag   = 0
+					tempString = tempString[j+1:]
+					break
 
 			tempString += s[i]
-		
+
 		retStringList.append(tempString)
 
-		return len(max(retStringList))
+		return len(max(retStringList, key=len))
 
 if __name__=='__main__':
-	lenOfString = Solution().lengthOfLongestSubstring('pwwkew')
+	lenOfString = Solution().lengthOfLongestSubstring('abcabcbb')
 	print(lenOfString)
