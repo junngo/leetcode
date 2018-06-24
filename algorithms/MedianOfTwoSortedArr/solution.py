@@ -16,15 +16,15 @@ The median is (2 + 3)/2 = 2.5
 '''
 
 class Solusion(object):
-	def findMedianSortedArrays(self, num1, num2):
-		tempList = num1 + num2
+	def findMedianSortedArrays(self, nums1, nums2):
+		tempList = nums1 + nums2
 		tempList.sort()
 
 		if len(tempList)%2 == 0:
 			return (tempList[(len(tempList)/2)-1] + tempList[len(tempList)/2]) / 2.0
 
 		else:
-			return tempList[len(tempList)/2]
+			return float(tempList[len(tempList)/2])
 
 if __name__=='__main__':
 	num = Solusion().findMedianSortedArrays([1,3], [2])
