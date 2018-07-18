@@ -21,7 +21,7 @@ Today I Learned
 004 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [Python](./algorithms/MedianOfTwoSortedArr) | Hard         |||
 005 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [Python](./algorithms/LongestPalindromicSubstring) | Medium         |||
 006 | [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/) | [Python](./algorithms/ZigZagConversion) | Medium         |||
-
+007 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [Python](./algorithms/ReverseInteger) | Easy         |||
 
 ## system
 * file Input Output
