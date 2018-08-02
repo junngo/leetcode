@@ -4,12 +4,12 @@ Today I Learned
 
 ## data-structures
 
-* List
-* Stack
-* Queue
-* Tree
-* heap
-* sorting
+* [List](./data-structures/List)
+* [Stack](./data-structures/Stack)
+* [Queue](./data-structures/Queue)
+* [Tree](./data-structures/Tree)
+* [Heap](./data-structures/Heap)
+* [Sorting](./data-structures/Sorting)
 
 
 ## algorithms
@@ -22,7 +22,14 @@ Today I Learned
 005 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [Python](./algorithms/LongestPalindromicSubstring) | Medium         |||
 006 | [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/) | [Python](./algorithms/ZigZagConversion) | Medium         |||
 007 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [Python](./algorithms/ReverseInteger) | Easy         |||
-008 | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | [Python](./algorithms/ReverseInteger) | Easy         |||
+008 | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | [Python](./algorithms/StringToInteger) | Medium         |||
+009 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Python](./algorithms/PalindromeNumber) | Easy         |||
 
 ## system
 * file Input Output
+* buffer input/output
+* Advanced file input/output
+* Process management
+* Thread
+* File directory management
+* Memory management
