@@ -15,7 +15,7 @@ Today I Learned
 ## algorithms
 |  #  | Title                  |  Solution       | Difficulty    | Tag          | Note|
 |-----|----------------------- | --------------- | ------------- |--------------|-----|
-001 | [TwoSum](https://leetcode.com/problems/two-sum/) | [Python](./algorithms/TwoSum) | Easy         |||
+001 | [TwoSum](https://leetcode.com/problems/two-sum/) | [Python](./algorithms/TwoSum/python) / [JS](./algorithms/TwoSum/js) | Easy         |||
 002 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Python](./algorithms/AddTwoNumbers) | Medium         |||
 003 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Python](./algorithms/LongestStringWithoutRepeating) | Medium         |||
 004 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [Python](./algorithms/MedianOfTwoSortedArr) | Hard         |||
@@ -24,6 +24,10 @@ Today I Learned
 007 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [Python](./algorithms/ReverseInteger) | Easy         |||
 008 | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | [Python](./algorithms/StringToInteger) | Medium         |||
 009 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Python](./algorithms/PalindromeNumber) | Easy         |||
+
+## Version Controller
+* [Mercurial](./vcs/Mercurial)
+* [Git](./vcs/Git)
 
 ## system
 * file Input Output
