@@ -15,17 +15,24 @@ nums2 = [3, 4]
 The median is (2 + 3)/2 = 2.5
 '''
 
+from typing import List
+import statistics
+
 class Solusion(object):
-	def findMedianSortedArrays(self, nums1, nums2):
-		tempList = nums1 + nums2
-		tempList.sort()
+    def findMedianSortedArrays1(self, nums1: List[int], nums2: List[int]) -> float:
+        return statistics.median(nums1+nums2)
 
-		if len(tempList)%2 == 0:
-			return (tempList[(len(tempList)/2)-1] + tempList[len(tempList)/2]) / 2.0
+	def findMedianSortedArrays2(self, nums1: List[int], nums2: List[int]) -> float:
+		join_list = nums1 + nums2
+		join_list.sort()
 
-		else:
-			return float(tempList[len(tempList)/2])
+		quotient, remainder = divmod(len(join_list), 2)
+
+		if remainder == 1:
+			return join_list[quotient]
+
+		return sum(join_list[quotient-1:quotient+1]) / 2
 
 if __name__=='__main__':
-	num = Solusion().findMedianSortedArrays([1,3], [2])
+	num = Solusion().findMedianSortedArrays2([1, 2, 3], [4, 5, 6])
 	print(num)
