@@ -11,29 +11,27 @@ Input: "cbbd"
 Output: "bb"
 '''
 
-class Solution(object):
-    def longestPalindrome(self, s):
-        retPalindrome = []
+class Solution:
+    def longestPalindrome(self, s: str) -> str:
+        idx = 0
+        temp_str = ''
+        ret_palindorme = []
 
-        if len(s) > 1000:
-            return
 
-        for i in range(0, len(s)):
-            for j in range(i, len(s)+1):
-                if (self.palindromeCheckFunc(s[i:j]) == 1) and (s[i:j]):
-                    retPalindrome.append(s[i:j])
+        for i in s:
+            idx += 1
+            temp_str = i
+            ret_palindorme.append(temp_str)
 
-        return max(retPalindrome, key=len)
+            for j in s[idx:]:
+                temp_str += j
 
-    def palindromeCheckFunc(self, str):
-        for i in range(0, len(str)/2):
-            if str[i] is str[len(str)-1-i]:
-                pass
-            else:
-                return
+                #  checking palindrome
+                if temp_str[:] == temp_str[::-1]:
+                    ret_palindorme.append(temp_str)
 
-        return 1
+        return max(ret_palindorme, key=len, default='')
 
 if __name__=='__main__':
-	resultStr = Solution().longestPalindrome("cbbd")
+	resultStr = Solution().longestPalindrome("a")
 	print(resultStr)
