@@ -28,15 +28,15 @@ Y A   H R
 P     I
 '''
 
-class Solusion(object):
-    def convert(self, s, numRows):
+class Solusion:
+    def convert(self, s: str, numRows: int) -> str:
         arrayIdx = min(numRows, len(s))
         tmpString = [[] for i in range(arrayIdx)]
         retString = ""
         curRow = 0
         upGoing = False
 
-        if len(s) < numRows or numRows == 1:
+        if (len(s) < numRows) or (numRows == 1):
             return s
 
         for c in s:
@@ -50,12 +50,12 @@ class Solusion(object):
             else:
                 curRow -= 1
 
-        for i in range(0, arrayIdx):
+        for i in range(arrayIdx):
             retString += "".join(tmpString[i])
 
         return retString
 
 
 if __name__=='__main__':
-	str = Solusion().convert("AB", 1)
+	str = Solusion().convert("PAYPALISHIRING", 3)
 	print(str)
