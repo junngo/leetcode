@@ -46,64 +46,46 @@ Explanation: The number "-91283472332" is out of the range of a 32-bit signed in
 
 '''
 
-class Solusion(object):
-    def myAtoi1(self, str):
+class Solusion:
+    def myAtoi(self, str: str) -> int:
+        pos_limit = 0x7fffffff
+        neg_limit = -0x80000000
 
-        retInt = 0
-        tempStr = str.strip()
-        minusFlag = False
+        temp_str = str.strip()
+        minus_flag = False
+        ret_num = ''
 
-        try:
-            if tempStr[0] is '-':
-                minusFlag = True
-                tempStr = tempStr[1:]
-        except:
+        if temp_str.startswith('-'):
+           temp_str = temp_str[1:]
+
+           minus_flag = True
+
+        elif temp_str.startswith('+'):
+           temp_str = temp_str[1:]
+
+        if (temp_str == "") or (not temp_str[0].isdigit()):
             return 0
 
-        for i in range(0, len(tempStr)):
-            if i == 0 and ((tempStr[i] < '0') or (tempStr[i] > '9')):
-                return 0
-            elif(tempStr[i] >= '0') and (tempStr[i] <= '9'):
-                retInt = (retInt*10) + int(tempStr[i])
-            else:
+        for s in temp_str:
+            if not s.isdigit():
                 break
+            ret_num += s
 
-        if minusFlag is True:
-            retInt *= -1
+        ret_num = int(ret_num)
+        if ret_num == 0:
+            return ret_num
 
-        return retInt
+        elif minus_flag:
+            ret_num *= -1
+            if (ret_num & neg_limit) != neg_limit:
+                return neg_limit
 
-    def myAtoi2(self, str):
-        INT_MAX =  2147483647
-        INT_MIN = -2147483648
-        result = 0
+        elif (ret_num & pos_limit) != ret_num:
+            return pos_limit
 
-        if not str:
-            return result
-
-        i = 0
-        while i < len(str) and str[i].isspace():
-            i += 1
-
-        if len(str) == i:
-            return result
-
-        sign = 1
-        if str[i] == "+":
-            i += 1
-        elif str[i] == "-":
-            sign = -1
-            i += 1
-
-        while i < len(str) and '0' <= str[i] <= '9':
-            if result > (INT_MAX - int(str[i])) / 10:
-                return INT_MAX if sign > 0 else INT_MIN
-            result = result * 10 + int(str[i])
-            i += 1
-
-        return sign * result
+        return ret_num
 
 
 if __name__=='__main__':
-	integers = Solusion().myAtoi2('    -42')
+	integers = Solusion().myAtoi('     ')
 	print(integers)
