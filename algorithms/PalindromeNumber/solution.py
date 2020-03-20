@@ -19,18 +19,15 @@ Output: false
 Explanation: Reads 01 from right to left. Therefore it is not a palindrome.
 '''
 
-class Solusion(object):
-    def isPalindrome(self, x):
+class Solution:
+    def isPalindrome(self, x: int) -> bool:
+        str_temp = str(x)
 
-        toStr = str(x)
-        compareStr = ''.join(reversed(toStr))
-
-        if toStr == compareStr:
+        if str_temp[:] == str_temp[::-1]:
             return True
-        else:
-            return False
 
+        return False
 
 if __name__=='__main__':
-	integers = Solusion().isPalindrome('121')
-	print(integers)
+	my_bool = Solution().isPalindrome('10')
+	print(my_bool)
