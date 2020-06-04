@@ -24,16 +24,8 @@ Today I Learned
 007 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [Python](./algorithms/ReverseInteger) | Easy         |||
 008 | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | [Python](./algorithms/StringToInteger) | Medium         |||
 009 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Python](./algorithms/PalindromeNumber) | Easy         |||
+055 | [Jump Game](https://leetcode.com/problems/jump-game/) | [Python](./algorithms/JumpGame/python) | Medium         |||
 
 ## Version Controller
 * [Mercurial](./vcs/Mercurial)
 * [Git](./vcs/Git)
-
-## system
-* file Input Output
-* buffer input/output
-* Advanced file input/output
-* Process management
-* Thread
-* File directory management
-* Memory management
