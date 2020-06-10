@@ -4,7 +4,7 @@ Today I Learned
 ## algorithms
 |  #  | Title                  |  Solution       | Difficulty    | Tag          | Note|
 |-----|----------------------- | --------------- | ------------- |--------------|-----|
-001 | [TwoSum](https://leetcode.com/problems/two-sum/) | [Python](./python/001_Two_Sum) | Easy         |||
+001 | [TwoSum](https://leetcode.com/problems/two-sum/) | [Python](./python/001_Two_Sum.py) | Easy         |||
 002 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Python](./algorithms/AddTwoNumbers) | Medium         |||
 003 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Python](./algorithms/LongestStringWithoutRepeating) | Medium         |||
 004 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [Python](./algorithms/MedianOfTwoSortedArr) | Hard         |||
@@ -14,4 +14,5 @@ Today I Learned
 008 | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | [Python](./algorithms/StringToInteger) | Medium         |||
 009 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Python](./algorithms/PalindromeNumber) | Easy         |||
 055 | [Jump Game](https://leetcode.com/problems/jump-game/) | [Python](./algorithms/JumpGame/python) | Medium         |||
-064 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | [Python](./python/064_Minimum_Path_Sum) | Medium         |||
+064 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | [Python](./python/064_Minimum_Path_Sum.py) | Medium         |||
+122 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [Python](./python/122_Best_Time_to_Buy_and_Sell_Stock_II.py) | Easy         |||
