@@ -12,27 +12,28 @@ Given "pwwkew", the answer is "wke", with the length of 3. Note that the answer 
 
 class Solution(object):
 	def lengthOfLongestSubstring(self, s: str) -> int:
-		idx = 0
-		loop2_idx = 0
-		temp_str = ''
-		long_str = []
+		idx_i, idx_j = 0, 0
+		long_str = ''
+		result = []
 
-		for loop_str in s:
-			temp_str = loop_str
-			idx += 1
+		for str_i in s:
+			long_str = str_i
+			idx_i += 1
 
-			for loop2_str in s[idx:]:
-				if s[idx+loop2_idx] in temp_str:
+			for str_j in s[idx_i:]:
+				if s[idx_i+idx_j] in long_str:
 					break
+
 				else:
-					temp_str += loop2_str
-					loop2_idx += 1
+					long_str += str_j
+					idx_j += 1
 
-			long_str.append(temp_str)
-			loop2_idx = 0
+			result.append(long_str)
+			idx_j = 0
 
-		return len(max(long_str, key=len, default=''))
+		return len(max(result, key=len, default=''))
+
 
 if __name__=='__main__':
-	lenOfString = Solution().lengthOfLongestSubstring('')
+	lenOfString = Solution().lengthOfLongestSubstring('abcabcbb')
 	print(lenOfString)
