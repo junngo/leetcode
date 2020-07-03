@@ -15,6 +15,7 @@ Today I Learned
 009 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Python](./algorithms/PalindromeNumber) | Easy         |||
 034 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [Python](./python/034_Find_First_and_Last_Position_of_Element_in_Sorted_Array.py) | Medium         |Array||
 035 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [Python](./python/035_Search_Insert_Position.py) | Easy         |Array||
+036 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | [Python](./python/036_Valid_Sudoku.py) | Medium         |Hash Table||
 055 | [Jump Game](https://leetcode.com/problems/jump-game/) | [Python](./algorithms/JumpGame/python) | Medium         |||
 064 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | [Python](./python/064_Minimum_Path_Sum.py) | Medium         |||
 122 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [Python](./python/122_Best_Time_to_Buy_and_Sell_Stock_II.py) | Easy         |||
