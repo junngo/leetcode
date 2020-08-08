@@ -17,6 +17,7 @@ Today I Learned
 035 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [Python](./python/035_Search_Insert_Position.py) | Easy         |Array||
 036 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | [Python](./python/036_Valid_Sudoku.py) | Medium         |Hash Table||
 039 | [Combination Sum](https://leetcode.com/problems/combination-sum/) | [Python](./python/039_Combination_Sum.py) | Medium         |Array / Backtracking||
+042 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [Python](./python/042_Trapping_Rain_Water.py) | Hard         |Array / Two Pointers / Stack||
 048 | [Rotate Image](https://leetcode.com/problems/rotate-image/) | [Python](./python/048_Rotate_Image.py) | Medium         |Array||
 055 | [Jump Game](https://leetcode.com/problems/jump-game/) | [Python](./algorithms/JumpGame/python) | Medium         |||
 064 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | [Python](./python/064_Minimum_Path_Sum.py) | Medium         |||
@@ -25,3 +26,4 @@ Today I Learned
 136 | [Single Number](https://leetcode.com/problems/single-number/) | [Python](./python/136_Single_Number.py) | Easy         |||
 146 | [LRU Cache](https://leetcode.com/problems/lru-cache/) | [Python](./python/146_LRU_Cache.py) | Medium         |||
 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | [Python](./python/344_Reverse_String.py) | Easy         |String / Two Pointers||
+561 | [Array Partition I](https://leetcode.com/problems/array-partition-i/) | [Python](./python/561_Array_Partition_I.py) | Easy         |Array||
