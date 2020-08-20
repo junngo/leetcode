@@ -26,6 +26,7 @@ Today I Learned
 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome) | [Python](./python/125_Valid_Palindrome.py) | Easy         |String||
 136 | [Single Number](https://leetcode.com/problems/single-number/) | [Python](./python/136_Single_Number.py) | Easy         |||
 146 | [LRU Cache](https://leetcode.com/problems/lru-cache/) | [Python](./python/146_LRU_Cache.py) | Medium         |||
+225 | [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) | [Python](./python/225_Implement_Stack_using_Queues.py) | Easy         |Stack / Design||
 234 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | [Python](./python/234_Palindrome_Linked_List.py) | Easy         |Linked List||
 238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [Python](./python/238_Product_of_Array_Except_Self.py) | Medium         |Array||
 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | [Python](./python/344_Reverse_String.py) | Easy         |String / Two Pointers||
