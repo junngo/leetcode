@@ -13,7 +13,7 @@ Today I Learned
 007 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [Python](./algorithms/ReverseInteger) | Easy         |||
 008 | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | [Python](./algorithms/StringToInteger) | Medium         |||
 009 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Python](./algorithms/PalindromeNumber) | Easy         |||
-020 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Python](./python/020_Valid_Parentheses ) | Easy         |String / Stack||
+020 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Python](./python/020_Valid_Parentheses.py) | Easy         |String / Stack||
 034 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [Python](./python/034_Find_First_and_Last_Position_of_Element_in_Sorted_Array.py) | Medium         |Array||
 035 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [Python](./python/035_Search_Insert_Position.py) | Easy         |Array||
 036 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | [Python](./python/036_Valid_Sudoku.py) | Medium         |Hash Table||
@@ -26,6 +26,7 @@ Today I Learned
 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome) | [Python](./python/125_Valid_Palindrome.py) | Easy         |String||
 136 | [Single Number](https://leetcode.com/problems/single-number/) | [Python](./python/136_Single_Number.py) | Easy         |||
 146 | [LRU Cache](https://leetcode.com/problems/lru-cache/) | [Python](./python/146_LRU_Cache.py) | Medium         |||
+200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | [Python](./python/200_Number_of_Islands.py) | Medium         |Depth-first Search||
 225 | [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) | [Python](./python/225_Implement_Stack_using_Queues.py) | Easy         |Stack / Design||
 234 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | [Python](./python/234_Palindrome_Linked_List.py) | Easy         |Linked List||
 238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [Python](./python/238_Product_of_Array_Except_Self.py) | Medium         |Array||
