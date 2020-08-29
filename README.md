@@ -20,6 +20,7 @@ Today I Learned
 036 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | [Python](./python/036_Valid_Sudoku.py) | Medium         |Hash Table||
 039 | [Combination Sum](https://leetcode.com/problems/combination-sum/) | [Python](./python/039_Combination_Sum.py) | Medium         |Array / Backtracking||
 042 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [Python](./python/042_Trapping_Rain_Water.py) | Hard         |Array / Two Pointers / Stack||
+046 | [Permutations](https://leetcode.com/problems/permutations/) | [Python](./python/046_Permutations.py) | Medium         |Backtracking||
 048 | [Rotate Image](https://leetcode.com/problems/rotate-image/) | [Python](./python/048_Rotate_Image.py) | Medium         |Array||
 055 | [Jump Game](https://leetcode.com/problems/jump-game/) | [Python](./algorithms/JumpGame/python) | Medium         |||
 064 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | [Python](./python/064_Minimum_Path_Sum.py) | Medium         |||
