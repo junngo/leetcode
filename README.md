@@ -24,6 +24,7 @@ Today I Learned
 048 | [Rotate Image](https://leetcode.com/problems/rotate-image/) | [Python](./python/048_Rotate_Image.py) | Medium         |Array||
 055 | [Jump Game](https://leetcode.com/problems/jump-game/) | [Python](./algorithms/JumpGame/python) | Medium         |||
 064 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | [Python](./python/064_Minimum_Path_Sum.py) | Medium         |||
+077 | [Combinations](https://leetcode.com/problems/combinations/) | [Python](./python/077_Combinations.py) | Medium         |Backtracking||
 122 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [Python](./python/122_Best_Time_to_Buy_and_Sell_Stock_II.py) | Easy         |||
 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome) | [Python](./python/125_Valid_Palindrome.py) | Easy         |String||
 136 | [Single Number](https://leetcode.com/problems/single-number/) | [Python](./python/136_Single_Number.py) | Easy         |||
