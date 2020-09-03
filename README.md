@@ -16,6 +16,7 @@ Today I Learned
 017 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | [Python](./python/017_Letter_Combinations_of_a_Phone_Number.py) | Medium         |String / Backtracking||
 020 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Python](./python/020_Valid_Parentheses.py) | Easy         |String / Stack||
 021 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [Python](./python/021_Merge_Two_Sorted_Lists.py) | Easy         |Linked List||
+024 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | [Python](./python/024_Swap_Nodes_in_Pairs.py) | Medium         |Linked List||
 034 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [Python](./python/034_Find_First_and_Last_Position_of_Element_in_Sorted_Array.py) | Medium         |Array||
 035 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [Python](./python/035_Search_Insert_Position.py) | Easy         |Array||
 036 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | [Python](./python/036_Valid_Sudoku.py) | Medium         |Hash Table||
