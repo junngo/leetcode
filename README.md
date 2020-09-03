@@ -13,6 +13,7 @@ Today I Learned
 007 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [Python](./algorithms/ReverseInteger) | Easy         |||
 008 | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | [Python](./algorithms/StringToInteger) | Medium         |||
 009 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Python](./algorithms/PalindromeNumber) | Easy         |||
+015 | [3Sum](https://leetcode.com/problems/3sum/) | [Python](./python/015_3Sum.py) | Medium         |Array / Two Pointers||
 017 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | [Python](./python/017_Letter_Combinations_of_a_Phone_Number.py) | Medium         |String / Backtracking||
 020 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Python](./python/020_Valid_Parentheses.py) | Easy         |String / Stack||
 021 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [Python](./python/021_Merge_Two_Sorted_Lists.py) | Easy         |Linked List||
