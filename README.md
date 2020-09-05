@@ -44,6 +44,7 @@ Today I Learned
 238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [Python](./python/238_Product_of_Array_Except_Self.py) | Medium         |Array||
 332 | [Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/) | [Python](./python/332_Reconstruct_Itinerary.py) | Medium         |Graph||
 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | [Python](./python/344_Reverse_String.py) | Easy         |String / Two Pointers||
+543 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | [Python](./python/543_Diameter_of_Binary_Tree.py) | Easy         |Tree||
 561 | [Array Partition I](https://leetcode.com/problems/array-partition-i/) | [Python](./python/561_Array_Partition_I.py) | Easy         |Array||
 706 | [Design HashMap](https://leetcode.com/problems/design-hashmap/) | [Python](./python/706_Design_HashMap.py) | Easy         |Hash Table / Design||
 739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | [Python](./python/739_Daily_Temperatures.py) | Medium         |Stack / Hash Table||
