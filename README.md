@@ -39,6 +39,7 @@ Today I Learned
 200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | [Python](./python/200_Number_of_Islands.py) | Medium         |Depth-first Search||
 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Python](./python/206_Reverse_Linked_List.py) | Easy         |Linked List||
 225 | [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) | [Python](./python/225_Implement_Stack_using_Queues.py) | Easy         |Stack / Design||
+226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [Python](./python/226_Invert_Binary_Tree.py) | Easy         |Tree||
 232 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | [Python](./python/232_Implement_Queue_using_Stacks.py) | Easy         |Stack / Design||
 234 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | [Python](./python/234_Palindrome_Linked_List.py) | Easy         |Linked List||
 238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [Python](./python/238_Product_of_Array_Except_Self.py) | Medium         |Array||
