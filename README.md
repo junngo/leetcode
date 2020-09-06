@@ -46,5 +46,6 @@ Today I Learned
 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | [Python](./python/344_Reverse_String.py) | Easy         |String / Two Pointers||
 543 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | [Python](./python/543_Diameter_of_Binary_Tree.py) | Easy         |Tree||
 561 | [Array Partition I](https://leetcode.com/problems/array-partition-i/) | [Python](./python/561_Array_Partition_I.py) | Easy         |Array||
+687 | [Longest Univalue Path](https://leetcode.com/problems/longest-univalue-path/) | [Python](./python/687_Longest_Univalue_Path.py) | Easy         |Tree||
 706 | [Design HashMap](https://leetcode.com/problems/design-hashmap/) | [Python](./python/706_Design_HashMap.py) | Easy         |Hash Table / Design||
 739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | [Python](./python/739_Daily_Temperatures.py) | Medium         |Stack / Hash Table||
