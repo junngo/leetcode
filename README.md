@@ -4,7 +4,7 @@ Today I Learned
 ## algorithms
 |  #  | Title                  |  Solution       | Difficulty    | Tag          | Note|
 |-----|----------------------- | --------------- | ------------- |--------------|-----|
-001 | [TwoSum](https://leetcode.com/problems/two-sum/) | [Python](./python/001_Two_Sum.py) | Easy         |||
+001 | [TwoSum](https://leetcode.com/problems/two-sum/) | [Python](./python/001_Two_Sum.py) / [Java](./java/src/main/java/_001_Two_Sum.java)| Easy         |Array||
 002 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Python](./python/002_Add_Two_Numbers.py) | Medium         |||
 003 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Python](./python/003_Longest_Substring_Without_Repeating_Characters.py) | Medium         |||
 004 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [Python](./algorithms/MedianOfTwoSortedArr) | Hard         |||
@@ -30,6 +30,7 @@ Today I Learned
 064 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | [Python](./python/064_Minimum_Path_Sum.py) | Medium         |||
 077 | [Combinations](https://leetcode.com/problems/combinations/) | [Python](./python/077_Combinations.py) | Medium         |Backtracking||
 078 | [Subsets](https://leetcode.com/problems/subsets/) | [Python](./python/078_Subsets.py) | Medium         |Backtracking||
+092 | [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) | [Python](./python/092_Reverse_Linked_List_II.py) | Medium         |Linked List||
 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Python](./python/104_Maximum_Depth_of_Binary_Tree.py) | Easy         |Tree||
 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Python](./python/121_Best_Time_to_Buy_and_Sell_Stock.py) | Easy         |Array||
 122 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [Python](./python/122_Best_Time_to_Buy_and_Sell_Stock_II.py) | Easy         |||
