@@ -6,7 +6,7 @@ Today I Learned
 |-----|----------------------- | --------------- | ------------- |--------------|-----|
 001 | [TwoSum](https://leetcode.com/problems/two-sum/) | [Python](./python/001_Two_Sum.py) / [Java](./java/src/main/java/_001_Two_Sum.java)| Easy         |Array||
 002 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Python](./python/002_Add_Two_Numbers.py) | Medium         |||
-003 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Python](./python/003_Longest_Substring_Without_Repeating_Characters.py) | Medium         |||
+003 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Python](./python/003_Longest_Substring_Without_Repeating_Characters.py) | Medium         |Hash Table||
 004 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [Python](./algorithms/MedianOfTwoSortedArr) | Hard         |||
 005 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [Python](./python/LongestPalindromicSubstring) | Medium         |||
 006 | [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/) | [Python](./algorithms/ZigZagConversion) | Medium         |||
@@ -47,9 +47,11 @@ Today I Learned
 328 | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | [Python](./python/328_Odd_Even_Linked_List.py) | Medium         |Linked List||
 332 | [Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/) | [Python](./python/332_Reconstruct_Itinerary.py) | Medium         |Graph||
 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | [Python](./python/344_Reverse_String.py) | Easy         |String / Two Pointers||
+347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | [Python](./python/347_Top_K_Frequent_Elements.py) | Medium         |Hash Table||
 543 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | [Python](./python/543_Diameter_of_Binary_Tree.py) | Easy         |Tree||
 561 | [Array Partition I](https://leetcode.com/problems/array-partition-i/) | [Python](./python/561_Array_Partition_I.py) | Easy         |Array||
 617 | [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/) | [Python](./python/617_Merge_Two_Binary_Trees.py) | Easy         |Tree||
 687 | [Longest Univalue Path](https://leetcode.com/problems/longest-univalue-path/) | [Python](./python/687_Longest_Univalue_Path.py) | Easy         |Tree||
 706 | [Design HashMap](https://leetcode.com/problems/design-hashmap/) | [Python](./python/706_Design_HashMap.py) | Easy         |Hash Table / Design||
 739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | [Python](./python/739_Daily_Temperatures.py) | Medium         |Stack / Hash Table||
+771 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) | [Python](./python/771_Jewels_and_Stones.py) | Easy         |Hash Table||
