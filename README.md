@@ -5,8 +5,8 @@ Today I Learned
 |  #  | Title                  |  Solution       | Difficulty    | Tag          | Note|
 |-----|----------------------- | --------------- | ------------- |--------------|-----|
 001 | [TwoSum](https://leetcode.com/problems/two-sum/) | [Python](./python/001_Two_Sum.py) / [Java](./java/src/main/java/_001_Two_Sum.java)| Easy         |Array||
-002 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Python](./python/002_Add_Two_Numbers.py) | Medium         |||
-003 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Python](./python/003_Longest_Substring_Without_Repeating_Characters.py) | Medium         |Hash Table||
+002 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Python](./python/002_Add_Two_Numbers.py) / [Java](./java/src/main/java/_002_Add_Two_Numbers.java) | Medium         |Linked List||
+003 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Python](./python/003_Longest_Substring_Without_Repeating_Characters.py) / [Java](./java/src/main/java/_003_Longest_Substring_Without_Repeating_Characters.java) | Medium         |Hash Table||
 004 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [Python](./algorithms/MedianOfTwoSortedArr) | Hard         |||
 005 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [Python](./python/LongestPalindromicSubstring) | Medium         |||
 006 | [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/) | [Python](./algorithms/ZigZagConversion) | Medium         |||
