@@ -55,6 +55,7 @@ Today I Learned
 561 | [Array Partition I](https://leetcode.com/problems/array-partition-i/) | [Python](./python/561_Array_Partition_I.py) | Easy         |Array||
 617 | [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/) | [Python](./python/617_Merge_Two_Binary_Trees.py) | Easy         |Tree||
 687 | [Longest Univalue Path](https://leetcode.com/problems/longest-univalue-path/) | [Python](./python/687_Longest_Univalue_Path.py) | Easy         |Tree||
+704 | [Binary Search](https://leetcode.com/problems/binary-search/) | [Python](./python/704_Binary_Search.py) | Easy         |Binary Search||
 706 | [Design HashMap](https://leetcode.com/problems/design-hashmap/) | [Python](./python/706_Design_HashMap.py) | Easy         |Hash Table / Design||
 739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | [Python](./python/739_Daily_Temperatures.py) | Medium         |Stack / Hash Table||
 771 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) | [Python](./python/771_Jewels_and_Stones.py) | Easy         |Hash Table||
