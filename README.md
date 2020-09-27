@@ -37,7 +37,7 @@ Today I Learned
 110 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | [Python](./python/110_Balanced_Binary_Tree.py) | Easy         |Tree||
 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Python](./python/121_Best_Time_to_Buy_and_Sell_Stock.py) | Easy         |Array||
 122 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [Python](./python/122_Best_Time_to_Buy_and_Sell_Stock_II.py) | Easy         |||
-125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome) | [Python](./python/125_Valid_Palindrome.py) | Easy         |String||
+125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome) | [Python](./python/125_Valid_Palindrome.py) / [Java](./java/src/main/java/_125_Valid_Palindrome.java) | Easy         |String||
 136 | [Single Number](https://leetcode.com/problems/single-number/) | [Python](./python/136_Single_Number.py) | Easy         |||
 146 | [LRU Cache](https://leetcode.com/problems/lru-cache/) | [Python](./python/146_LRU_Cache.py) | Medium         |||
 200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | [Python](./python/200_Number_of_Islands.py) | Medium         |Depth-first Search||
