@@ -8,7 +8,7 @@ Today I Learned
 002 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Python](./python/002_Add_Two_Numbers.py) / [Java](./java/src/main/java/_002_Add_Two_Numbers.java) | Medium         |Linked List||
 003 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Python](./python/003_Longest_Substring_Without_Repeating_Characters.py) / [Java](./java/src/main/java/_003_Longest_Substring_Without_Repeating_Characters.java) | Medium         |Hash Table||
 004 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [Python](./algorithms/MedianOfTwoSortedArr) | Hard         |||
-005 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [Python](./python/LongestPalindromicSubstring) | Medium         |||
+005 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [Python](./python/LongestPalindromicSubstring)/[Java](./java/src/main/java/_005_Longest_Palindromic_Substring.java) | Medium         |||
 006 | [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/) | [Python](./algorithms/ZigZagConversion) | Medium         |||
 007 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [Python](./algorithms/ReverseInteger) | Easy         |||
 008 | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | [Python](./algorithms/StringToInteger) | Medium         |||
