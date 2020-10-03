@@ -35,7 +35,7 @@ Today I Learned
 092 | [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) | [Python](./python/092_Reverse_Linked_List_II.py) | Medium         |Linked List||
 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Python](./python/104_Maximum_Depth_of_Binary_Tree.py) | Easy         |Tree||
 110 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | [Python](./python/110_Balanced_Binary_Tree.py) | Easy         |Tree||
-121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Python](./python/121_Best_Time_to_Buy_and_Sell_Stock.py) | Easy         |Array||
+121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Python](./python/121_Best_Time_to_Buy_and_Sell_Stock.py)/[Java](./java/src/main/java/_121_Best_Time_to_Buy_and_Sell_Stock.java) | Easy         |Array||
 122 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [Python](./python/122_Best_Time_to_Buy_and_Sell_Stock_II.py) | Easy         |||
 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome) | [Python](./python/125_Valid_Palindrome.py) / [Java](./java/src/main/java/_125_Valid_Palindrome.java) | Easy         |String||
 136 | [Single Number](https://leetcode.com/problems/single-number/) | [Python](./python/136_Single_Number.py) | Easy         |||
