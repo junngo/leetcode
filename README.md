@@ -7,7 +7,7 @@ Today I Learned
 001 | [TwoSum](https://leetcode.com/problems/two-sum/) | [Python](./python/001_Two_Sum.py) / [Java](./java/src/main/java/_001_Two_Sum.java)| Easy         |Array||
 002 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Python](./python/002_Add_Two_Numbers.py) / [Java](./java/src/main/java/_002_Add_Two_Numbers.java) | Medium         |Linked List||
 003 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Python](./python/003_Longest_Substring_Without_Repeating_Characters.py) / [Java](./java/src/main/java/_003_Longest_Substring_Without_Repeating_Characters.java) | Medium         |Hash Table||
-004 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [Python](./algorithms/MedianOfTwoSortedArr) | Hard         |||
+004 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [Python](./algorithms/MedianOfTwoSortedArr)/[Java](./java/src/main/java/_004_Median_of_Two_Sorted_Arrays.java) | Hard         |||
 005 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [Python](./python/LongestPalindromicSubstring)/[Java](./java/src/main/java/_005_Longest_Palindromic_Substring.java) | Medium         |||
 006 | [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/) | [Python](./algorithms/ZigZagConversion) | Medium         |||
 007 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [Python](./algorithms/ReverseInteger) | Easy         |||
@@ -52,7 +52,7 @@ Today I Learned
 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | [Python](./python/344_Reverse_String.py) / [Java](./java/src/main/java/_344_Reverse_String.java) | Easy         |String / Two Pointers||
 347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | [Python](./python/347_Top_K_Frequent_Elements.py) | Medium         |Hash Table||
 543 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | [Python](./python/543_Diameter_of_Binary_Tree.py) | Easy         |Tree||
-561 | [Array Partition I](https://leetcode.com/problems/array-partition-i/) | [Python](./python/561_Array_Partition_I.py) | Easy         |Array||
+561 | [Array Partition I](https://leetcode.com/problems/array-partition-i/) | [Python](./python/561_Array_Partition_I.py)/[Java](././java/src/main/java/_561_Array_Partition_I.java) | Easy         |Array||
 617 | [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/) | [Python](./python/617_Merge_Two_Binary_Trees.py) | Easy         |Tree||
 687 | [Longest Univalue Path](https://leetcode.com/problems/longest-univalue-path/) | [Python](./python/687_Longest_Univalue_Path.py) | Easy         |Tree||
 704 | [Binary Search](https://leetcode.com/problems/binary-search/) | [Python](./python/704_Binary_Search.py) | Easy         |Binary Search||
