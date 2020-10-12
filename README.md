@@ -45,7 +45,7 @@ Today I Learned
 225 | [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) | [Python](./python/225_Implement_Stack_using_Queues.py) | Easy         |Stack / Design||
 226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [Python](./python/226_Invert_Binary_Tree.py) | Easy         |Tree||
 232 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | [Python](./python/232_Implement_Queue_using_Stacks.py) | Easy         |Stack / Design||
-234 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | [Python](./python/234_Palindrome_Linked_List.py) | Easy         |Linked List||
+234 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | [Python](./python/234_Palindrome_Linked_List.py)/[Java](./java/src/main/java/_234_Palindrome_Linked_List.java) | Easy         |Linked List||
 238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [Python](./python/238_Product_of_Array_Except_Self.py) | Medium         |Array||
 328 | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | [Python](./python/328_Odd_Even_Linked_List.py) | Medium         |Linked List||
 332 | [Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/) | [Python](./python/332_Reconstruct_Itinerary.py) | Medium         |Graph||
