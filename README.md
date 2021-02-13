@@ -16,6 +16,7 @@ Today I Learned
 015 | [3Sum](https://leetcode.com/problems/3sum/) | [Python](./python/015_3Sum.py)/[Java](./java/src/main/java/_015_3Sum.java) | Medium         |Array / Two Pointers||
 016 | [3Sum Closest](https://leetcode.com/problems/3sum-closest/) | [Python](./python/016_3Sum_Closest.py) | Medium         |Array / Two Pointers||
 017 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | [Python](./python/017_Letter_Combinations_of_a_Phone_Number.py) | Medium         |String / Backtracking||
+018 | [4Sum](https://leetcode.com/problems/4sum/) | [Python](./python/018_4Sum.py) | Medium         |Array||
 020 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Python](./python/020_Valid_Parentheses.py) | Easy         |String / Stack||
 021 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [Python](./python/021_Merge_Two_Sorted_Lists.py)/[Java](./java/src/main/java/_021_Merge_Two_Sorted_Lists.java) | Easy         |Linked List||
 023 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [Python](./python/023_Merge_k_Sorted_Lists.py) | Hard         |Linked List||
