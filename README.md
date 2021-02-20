@@ -60,5 +60,6 @@ Today I Learned
 704 | [Binary Search](https://leetcode.com/problems/binary-search/) | [Python](./python/704_Binary_Search.py) | Easy         |Binary Search||
 706 | [Design HashMap](https://leetcode.com/problems/design-hashmap/) | [Python](./python/706_Design_HashMap.py) | Easy         |Hash Table / Design||
 739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | [Python](./python/739_Daily_Temperatures.py) | Medium         |Stack / Hash Table||
+743 | [Network Delay Time](https://leetcode.com/problems/network-delay-time/) | [Python](./python/743_Network_Delay_Time.py) | Medium         |Heap/BFS||
 771 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) | [Python](./python/771_Jewels_and_Stones.py)/[Java](./java/src/main/java/_771_Jewels_and_Stones.java) | Easy         |Hash Table||
 819 | [Most Common Word](https://leetcode.com/problems/most-common-word/) | [Python](./python/819_Most_Common_Word.py) / [Java](./java/src/main/java/_819_Most_Common_Word.java) | Easy         |String||
