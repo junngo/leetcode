@@ -63,4 +63,5 @@ Today I Learned
 739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | [Python](./python/739_Daily_Temperatures.py) | Medium         |Stack / Hash Table||
 743 | [Network Delay Time](https://leetcode.com/problems/network-delay-time/) | [Python](./python/743_Network_Delay_Time.py) | Medium         |Heap/BFS||
 771 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) | [Python](./python/771_Jewels_and_Stones.py)/[Java](./java/src/main/java/_771_Jewels_and_Stones.java) | Easy         |Hash Table||
+783 | [Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes/) | [Python](./python/783_Minimum_Distance_Between_BST_Nodes.py) | Easy         |Tree||
 819 | [Most Common Word](https://leetcode.com/problems/most-common-word/) | [Python](./python/819_Most_Common_Word.py) / [Java](./java/src/main/java/_819_Most_Common_Word.java) | Easy         |String||
