@@ -33,6 +33,7 @@ Today I Learned
 048 | [Rotate Image](https://leetcode.com/problems/rotate-image/) | [Python](./python/048_Rotate_Image.py) | Medium         |Array||
 049 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [Python](./python/049_Group_Anagrams.py) | Medium         |Hash Table||
 055 | [Jump Game](https://leetcode.com/problems/jump-game/) | [Python](./algorithms/JumpGame/python) | Medium         |||
+062 | [Unique Paths](https://leetcode.com/problems/unique-paths/) | [Python](./python/062_Unique_Paths.py) | Medium         |||
 064 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | [Python](./python/064_Minimum_Path_Sum.py) | Medium         |||
 077 | [Combinations](https://leetcode.com/problems/combinations/) | [Python](./python/077_Combinations.py) | Medium         |Backtracking||
 078 | [Subsets](https://leetcode.com/problems/subsets/) | [Python](./python/078_Subsets.py) | Medium         |Backtracking||
