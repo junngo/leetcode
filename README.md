@@ -23,12 +23,14 @@ Today I Learned
 023 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [Python](./python/023_Merge_k_Sorted_Lists.py) | Hard         |Linked List||
 024 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | [Python](./python/024_Swap_Nodes_in_Pairs.py) | Medium         |Linked List||
 027 | [Remove Element](https://leetcode.com/problems/remove-element/) | [Python](./python/027_Remove_Element.py) | Easy         |Array||
+032 | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) | [Python](./python/032_Longest_Valid_Parentheses.py) | Hard         |String/DP||
 034 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [Python](./python/034_Find_First_and_Last_Position_of_Element_in_Sorted_Array.py) | Medium         |Array||
 035 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [Python](./python/035_Search_Insert_Position.py) | Easy         |Array||
 036 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | [Python](./python/036_Valid_Sudoku.py) | Medium         |Hash Table||
 039 | [Combination Sum](https://leetcode.com/problems/combination-sum/) | [Python](./python/039_Combination_Sum.py) | Medium         |Array / Backtracking||
 041 | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | [Python](./python/041_First_Missing_Positive.py) | Hard         |Array||
 042 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [Python](./python/042_Trapping_Rain_Water.py) | Hard         |Array / Two Pointers / Stack||
+045 | [Jump Game II](https://leetcode.com/problems/jump-game-ii/) | [Python](./python/045_Jump_Game_II.py) | Medium         |Array / Greedy||
 046 | [Permutations](https://leetcode.com/problems/permutations/) | [Python](./python/046_Permutations.py) | Medium         |Backtracking||
 048 | [Rotate Image](https://leetcode.com/problems/rotate-image/) | [Python](./python/048_Rotate_Image.py) | Medium         |Array||
 049 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [Python](./python/049_Group_Anagrams.py) | Medium         |Hash Table||
