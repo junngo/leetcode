@@ -13,6 +13,7 @@ Today I Learned
 007 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [Python](./algorithms/ReverseInteger) | Easy         |||
 008 | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | [Python](./algorithms/StringToInteger) | Medium         |||
 009 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Python](./algorithms/PalindromeNumber) | Easy         |||
+010 | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/) | [Python](./python/010_Regular_Expression_Matching.py) | Hard         |String / Backtracking||
 015 | [3Sum](https://leetcode.com/problems/3sum/) | [Python](./python/015_3Sum.py)/[Java](./java/src/main/java/_015_3Sum.java) | Medium         |Array / Two Pointers||
 016 | [3Sum Closest](https://leetcode.com/problems/3sum-closest/) | [Python](./python/016_3Sum_Closest.py) | Medium         |Array / Two Pointers||
 017 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | [Python](./python/017_Letter_Combinations_of_a_Phone_Number.py) | Medium         |String / Backtracking||
@@ -37,6 +38,7 @@ Today I Learned
 055 | [Jump Game](https://leetcode.com/problems/jump-game/) | [Python](./algorithms/JumpGame/python) | Medium         |||
 062 | [Unique Paths](https://leetcode.com/problems/unique-paths/) | [Python](./python/062_Unique_Paths.py) | Medium         |||
 064 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | [Python](./python/064_Minimum_Path_Sum.py) | Medium         |||
+070 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Python](./python/070_Climbing_Stairs.py) | Easy         |DP||
 077 | [Combinations](https://leetcode.com/problems/combinations/) | [Python](./python/077_Combinations.py) | Medium         |Backtracking||
 078 | [Subsets](https://leetcode.com/problems/subsets/) | [Python](./python/078_Subsets.py) | Medium         |Backtracking||
 092 | [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) | [Python](./python/092_Reverse_Linked_List_II.py) | Medium         |Linked List||

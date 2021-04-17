@@ -46,7 +46,7 @@ Output: false
 
 class Solution:
     # Recursive
-    def isMatch1(self, s: str, p: str) -> bool:
+    def isMatch(self, s: str, p: str) -> bool:
 
         first_match = False
         if len(s) == 0 and len(p) == 0:
@@ -56,11 +56,11 @@ class Solution:
             first_match = p[0] in [s[0], "."]
 
         if len(p) >= 2 and p[1] == '*':
-            return (first_match and self.isMatch1(s[1:], p)) or self.isMatch1(s, p[2:])
+            return (first_match and self.isMatch(s[1:], p)) or self.isMatch(s, p[2:])
 
         else:
-            return first_match and self.isMatch1(s[1:], p[1:])
+            return first_match and self.isMatch(s[1:], p[1:])
 
 if __name__ == '__main__':
-    my_regular = Solution().isMatch1('bbbb', 'abcde')
+    my_regular = Solution().isMatch('bbbb', 'abcde')
     print(my_regular)
