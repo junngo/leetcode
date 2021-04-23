@@ -39,6 +39,7 @@ Today I Learned
 062 | [Unique Paths](https://leetcode.com/problems/unique-paths/) | [Python](./python/062_Unique_Paths.py) | Medium         |||
 064 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | [Python](./python/064_Minimum_Path_Sum.py) | Medium         |||
 070 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Python](./python/070_Climbing_Stairs.py) | Easy         |DP||
+075 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | [Python](./python/075_Sort_Colors.py) | Medium         |Two Pointers||
 077 | [Combinations](https://leetcode.com/problems/combinations/) | [Python](./python/077_Combinations.py) | Medium         |Backtracking||
 078 | [Subsets](https://leetcode.com/problems/subsets/) | [Python](./python/078_Subsets.py) | Medium         |Backtracking||
 092 | [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) | [Python](./python/092_Reverse_Linked_List_II.py) | Medium         |Linked List||
@@ -61,6 +62,8 @@ Today I Learned
 332 | [Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/) | [Python](./python/332_Reconstruct_Itinerary.py) | Medium         |Graph||
 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | [Python](./python/344_Reverse_String.py) / [Java](./java/src/main/java/_344_Reverse_String.java) | Easy         |String / Two Pointers||
 347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | [Python](./python/347_Top_K_Frequent_Elements.py) | Medium         |Hash Table||
+349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | [Python](./python/349_Intersection_of_Two_Arrays.py) | Easy         |BS/Two Pointers||
+509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | [Python](./python/509_Fibonacci_Number.py) | Easy         |Array/DP||
 543 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | [Python](./python/543_Diameter_of_Binary_Tree.py) | Easy         |Tree||
 561 | [Array Partition I](https://leetcode.com/problems/array-partition-i/) | [Python](./python/561_Array_Partition_I.py)/[Java](././java/src/main/java/_561_Array_Partition_I.java) | Easy         |Array||
 617 | [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/) | [Python](./python/617_Merge_Two_Binary_Trees.py) | Easy         |Tree||
