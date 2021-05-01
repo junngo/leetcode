@@ -42,8 +42,11 @@ Today I Learned
 075 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | [Python](./python/075_Sort_Colors.py) | Medium         |Two Pointers||
 077 | [Combinations](https://leetcode.com/problems/combinations/) | [Python](./python/077_Combinations.py) | Medium         |Backtracking||
 078 | [Subsets](https://leetcode.com/problems/subsets/) | [Python](./python/078_Subsets.py) | Medium         |Backtracking||
+079 | [Word Search](https://leetcode.com/problems/word-search/) | [Python](./python/079_Word_Search.py) | Medium         |Backtracking||
+084 | [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) | [Python](./python/084_Largest_Rectangle_in_Histogram.py) | Hard         |Stack||
 092 | [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) | [Python](./python/092_Reverse_Linked_List_II.py) | Medium         |Linked List||
 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Python](./python/104_Maximum_Depth_of_Binary_Tree.py) | Easy         |Tree||
+108 | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | [Python](./python/108_Convert_Sorted_Array_to_Binary_Search_Tree.py) | Easy         |Tree||
 110 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | [Python](./python/110_Balanced_Binary_Tree.py) | Easy         |Tree||
 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Python](./python/121_Best_Time_to_Buy_and_Sell_Stock.py)/[Java](./java/src/main/java/_121_Best_Time_to_Buy_and_Sell_Stock.java) | Easy         |Array||
 122 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [Python](./python/122_Best_Time_to_Buy_and_Sell_Stock_II.py) | Easy         |||
