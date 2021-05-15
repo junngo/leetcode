@@ -44,6 +44,7 @@ Today I Learned
 078 | [Subsets](https://leetcode.com/problems/subsets/) | [Python](./python/078_Subsets.py) | Medium         |Backtracking||
 079 | [Word Search](https://leetcode.com/problems/word-search/) | [Python](./python/079_Word_Search.py) | Medium         |Backtracking||
 084 | [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) | [Python](./python/084_Largest_Rectangle_in_Histogram.py) | Hard         |Stack||
+086 | [Partition List](https://leetcode.com/problems/partition-list/) | [Python](./python/086_Partition_List.py) | Medium         |Linked List||
 092 | [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) | [Python](./python/092_Reverse_Linked_List_II.py) | Medium         |Linked List||
 094 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [Python](./python/094_Binary_Tree_Inorder_Traversal.py) | Medium         |Linked List||
 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Python](./python/104_Maximum_Depth_of_Binary_Tree.py) | Easy         |Tree||
@@ -63,6 +64,7 @@ Today I Learned
 232 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | [Python](./python/232_Implement_Queue_using_Stacks.py) | Easy         |Stack / Design||
 234 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | [Python](./python/234_Palindrome_Linked_List.py)/[Java](./java/src/main/java/_234_Palindrome_Linked_List.java) | Easy         |Linked List||
 238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [Python](./python/238_Product_of_Array_Except_Self.py) | Medium         |Array||
+310 | [Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/) | [Python](./python/310_Minimum_Height_Trees.py) | Medium         |Graph||
 328 | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | [Python](./python/328_Odd_Even_Linked_List.py) | Medium         |Linked List||
 332 | [Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/) | [Python](./python/332_Reconstruct_Itinerary.py) | Medium         |Graph||
 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | [Python](./python/344_Reverse_String.py) / [Java](./java/src/main/java/_344_Reverse_String.java) | Easy         |String / Two Pointers||
