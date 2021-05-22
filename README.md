@@ -47,12 +47,15 @@ Today I Learned
 086 | [Partition List](https://leetcode.com/problems/partition-list/) | [Python](./python/086_Partition_List.py) | Medium         |Linked List||
 092 | [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) | [Python](./python/092_Reverse_Linked_List_II.py) | Medium         |Linked List||
 094 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [Python](./python/094_Binary_Tree_Inorder_Traversal.py) | Medium         |Linked List||
+098 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | [Python](./python/098_Validate_Binary_Search_Tree.py) | Medium         |Tree||
 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Python](./python/104_Maximum_Depth_of_Binary_Tree.py) | Easy         |Tree||
 108 | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | [Python](./python/108_Convert_Sorted_Array_to_Binary_Search_Tree.py) | Easy         |Tree||
 110 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | [Python](./python/110_Balanced_Binary_Tree.py) | Easy         |Tree||
+114 | [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) | [Python](./python/114_Flatten_Binary_Tree_to_Linked_List.py) | Medium         |Tree||
 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Python](./python/121_Best_Time_to_Buy_and_Sell_Stock.py)/[Java](./java/src/main/java/_121_Best_Time_to_Buy_and_Sell_Stock.java) | Easy         |Array||
 122 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [Python](./python/122_Best_Time_to_Buy_and_Sell_Stock_II.py) | Easy         |||
 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome) | [Python](./python/125_Valid_Palindrome.py) / [Java](./java/src/main/java/_125_Valid_Palindrome.java) | Easy         |String||
+128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | [Python](./python/128_Longest_Consecutive_Sequence.py) / [Python](./python/128_Longest_Consecutive_Sequence.py) | Hard         |Array||
 136 | [Single Number](https://leetcode.com/problems/single-number/) | [Python](./python/136_Single_Number.py) | Easy         |||
 139 | [Word Break](https://leetcode.com/problems/word-break/) | [Python](./python/139_Word_Break.py) | Medium         |DP||
 146 | [LRU Cache](https://leetcode.com/problems/lru-cache/) | [Python](./python/146_LRU_Cache.py) | Medium         |||
