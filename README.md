@@ -59,6 +59,8 @@ Today I Learned
 136 | [Single Number](https://leetcode.com/problems/single-number/) | [Python](./python/136_Single_Number.py) | Easy         |||
 139 | [Word Break](https://leetcode.com/problems/word-break/) | [Python](./python/139_Word_Break.py) | Medium         |DP||
 146 | [LRU Cache](https://leetcode.com/problems/lru-cache/) | [Python](./python/146_LRU_Cache.py) | Medium         |||
+155 | [Min Stack](https://leetcode.com/problems/min-stack/) | [Python](./python/155_Min_Stack.py) | Easy         |Stack/Design||
+199 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | [Python](./python/199_Binary_Tree_Right_Side_View.py) | Medium         |Tree||
 200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | [Python](./python/200_Number_of_Islands.py) | Medium         |Depth-first Search||
 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Python](./python/206_Reverse_Linked_List.py)/[Java](./java/src/main/java/_206_Reverse_Linked_List.java) | Easy         |Linked List||
 215 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | [Python](./python/215_Kth_Largest_Element_in_an_Array.py) | Medium         |Heap||
@@ -67,6 +69,7 @@ Today I Learned
 232 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | [Python](./python/232_Implement_Queue_using_Stacks.py) | Easy         |Stack / Design||
 234 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | [Python](./python/234_Palindrome_Linked_List.py)/[Java](./java/src/main/java/_234_Palindrome_Linked_List.java) | Easy         |Linked List||
 238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [Python](./python/238_Product_of_Array_Except_Self.py) | Medium         |Array||
+239 | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | [Python](./python/239_Sliding_Window_Maximum.py) | Hard         |Heap||
 310 | [Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/) | [Python](./python/310_Minimum_Height_Trees.py) | Medium         |Graph||
 328 | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | [Python](./python/328_Odd_Even_Linked_List.py) | Medium         |Linked List||
 332 | [Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/) | [Python](./python/332_Reconstruct_Itinerary.py) | Medium         |Graph||
