@@ -17,6 +17,7 @@ class Solution:
             if nums[i-1] > 0:
                 nums[i] += nums[i-1]
 
+        print(nums)
         return max(nums)
         
 if __name__ == "__main__":

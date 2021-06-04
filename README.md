@@ -35,6 +35,7 @@ Today I Learned
 046 | [Permutations](https://leetcode.com/problems/permutations/) | [Python](./python/046_Permutations.py) | Medium         |Backtracking||
 048 | [Rotate Image](https://leetcode.com/problems/rotate-image/) | [Python](./python/048_Rotate_Image.py) | Medium         |Array||
 049 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [Python](./python/049_Group_Anagrams.py) | Medium         |Hash Table||
+053 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Python](./python/053_Maximum_Subarray.py) | Easy         |DP||
 055 | [Jump Game](https://leetcode.com/problems/jump-game/) | [Python](./algorithms/JumpGame/python) | Medium         |||
 062 | [Unique Paths](https://leetcode.com/problems/unique-paths/) | [Python](./python/062_Unique_Paths.py) | Medium         |||
 064 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | [Python](./python/064_Minimum_Path_Sum.py) | Medium         |||
@@ -89,3 +90,4 @@ Today I Learned
 771 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) | [Python](./python/771_Jewels_and_Stones.py)/[Java](./java/src/main/java/_771_Jewels_and_Stones.java) | Easy         |Hash Table||
 783 | [Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes/) | [Python](./python/783_Minimum_Distance_Between_BST_Nodes.py) | Easy         |Tree||
 819 | [Most Common Word](https://leetcode.com/problems/most-common-word/) | [Python](./python/819_Most_Common_Word.py) / [Java](./java/src/main/java/_819_Most_Common_Word.java) | Easy         |String||
+938 | [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/) | [Python](./python/938_Range_Sum_of_BST.py) | Easy         |Tree||
