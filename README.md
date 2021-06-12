@@ -37,6 +37,7 @@ Today I Learned
 049 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [Python](./python/049_Group_Anagrams.py) | Medium         |Hash Table||
 053 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Python](./python/053_Maximum_Subarray.py) | Easy         |DP||
 055 | [Jump Game](https://leetcode.com/problems/jump-game/) | [Python](./algorithms/JumpGame/python) | Medium         |||
+056 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | [Python](./python/056_Merge_Intervals.py) | Medium         |||
 062 | [Unique Paths](https://leetcode.com/problems/unique-paths/) | [Python](./python/062_Unique_Paths.py) | Medium         |||
 064 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | [Python](./python/064_Minimum_Path_Sum.py) | Medium         |||
 070 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Python](./python/070_Climbing_Stairs.py) | Easy         |DP||
@@ -55,6 +56,7 @@ Today I Learned
 114 | [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) | [Python](./python/114_Flatten_Binary_Tree_to_Linked_List.py) | Medium         |Tree||
 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Python](./python/121_Best_Time_to_Buy_and_Sell_Stock.py)/[Java](./java/src/main/java/_121_Best_Time_to_Buy_and_Sell_Stock.java) | Easy         |Array||
 122 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [Python](./python/122_Best_Time_to_Buy_and_Sell_Stock_II.py) | Easy         |||
+124 | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | [Python](./python/124_Binary_Tree_Maximum_Path_Sum.py) | Hard         |||
 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome) | [Python](./python/125_Valid_Palindrome.py) / [Java](./java/src/main/java/_125_Valid_Palindrome.java) | Easy         |String||
 128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | [Python](./python/128_Longest_Consecutive_Sequence.py) / [Python](./python/128_Longest_Consecutive_Sequence.py) | Hard         |Array||
 136 | [Single Number](https://leetcode.com/problems/single-number/) | [Python](./python/136_Single_Number.py) | Easy         |||
@@ -71,6 +73,7 @@ Today I Learned
 234 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | [Python](./python/234_Palindrome_Linked_List.py)/[Java](./java/src/main/java/_234_Palindrome_Linked_List.java) | Easy         |Linked List||
 238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [Python](./python/238_Product_of_Array_Except_Self.py) | Medium         |Array||
 239 | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | [Python](./python/239_Sliding_Window_Maximum.py) | Hard         |Heap||
+287 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | [Python](./python/287_Find_the_Duplicate_Number.py) | Medium         |||
 310 | [Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/) | [Python](./python/310_Minimum_Height_Trees.py) | Medium         |Graph||
 328 | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | [Python](./python/328_Odd_Even_Linked_List.py) | Medium         |Linked List||
 332 | [Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/) | [Python](./python/332_Reconstruct_Itinerary.py) | Medium         |Graph||
