@@ -50,6 +50,7 @@ Today I Learned
 092 | [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) | [Python](./python/092_Reverse_Linked_List_II.py) | Medium         |Linked List||
 094 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [Python](./python/094_Binary_Tree_Inorder_Traversal.py) | Medium         |Linked List||
 098 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | [Python](./python/098_Validate_Binary_Search_Tree.py) | Medium         |Tree||
+101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | [Python](./python/101_Symmetric_Tree.py) | Easy         |Tree||
 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Python](./python/104_Maximum_Depth_of_Binary_Tree.py) | Easy         |Tree||
 108 | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | [Python](./python/108_Convert_Sorted_Array_to_Binary_Search_Tree.py) | Easy         |Tree||
 110 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | [Python](./python/110_Balanced_Binary_Tree.py) | Easy         |Tree||

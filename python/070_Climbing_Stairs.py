@@ -16,6 +16,7 @@ Explanation: There are three ways to climb to the top.
 """
 
 class Solution:
+    dp = collections.defaultdict(int)
     def climbStairs(self, n: int) -> int:
         if n == 1:
             return 1
@@ -23,8 +24,12 @@ class Solution:
         if n == 2:
             return 2
 
-        return self.climbStairs(n-1) + self.climbStairs(n-2)
+        if self.dp[n]:
+            return self.dp[n]
 
+        self.dp[n] = self.climbStairs(n-1) + self.climbStairs(n-2)
+
+        return self.dp[n]
 
 if __name__ == "__main__":
     result = Solution().climbStairs(5)
