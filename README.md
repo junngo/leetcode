@@ -75,7 +75,9 @@ Today I Learned
 238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [Python](./python/238_Product_of_Array_Except_Self.py) | Medium         |Array||
 239 | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | [Python](./python/239_Sliding_Window_Maximum.py) | Hard         |Heap||
 287 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | [Python](./python/287_Find_the_Duplicate_Number.py) | Medium         |||
+300 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | [Python](./python/300_Longest_Increasing_Subsequence.py) | Medium         |||
 310 | [Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/) | [Python](./python/310_Minimum_Height_Trees.py) | Medium         |Graph||
+315 | [Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/) | [Python](./python/315_Count_of_Smaller_Numbers_After_Self.py) | Hard         |||
 328 | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | [Python](./python/328_Odd_Even_Linked_List.py) | Medium         |Linked List||
 332 | [Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/) | [Python](./python/332_Reconstruct_Itinerary.py) | Medium         |Graph||
 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | [Python](./python/344_Reverse_String.py) / [Java](./java/src/main/java/_344_Reverse_String.java) | Easy         |String / Two Pointers||
