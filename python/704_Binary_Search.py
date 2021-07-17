@@ -1,3 +1,6 @@
+import bisect
+from typing import List
+
 class Solution:
     def search(self, nums: List[int], target: int) -> int:
         def binary_search(left, right):
@@ -17,6 +20,16 @@ class Solution:
         return binary_search(0, len(nums) - 1)
 
 
+    def search_bisect(self, nums: List[int], target: int) -> int:
+        index = bisect.bisect_left(nums, target)
+
+        if index < len(nums) and nums[index] == target:
+            return index
+        else:
+            return -1
+
+
 if __name__ == "__main__":
-    ret = Solution().search([-1, 0, 3, 5, 9, 12], 9)
+    # ex = [-1,0,3,5,9,12]
+    ret = Solution().search_bisect([-1, 0, 3, 5, 9, 12, 6], 9)
     print(ret)
