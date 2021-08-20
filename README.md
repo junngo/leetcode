@@ -50,9 +50,11 @@ Today I Learned
 092 | [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) | [Python](./python/092_Reverse_Linked_List_II.py) | Medium         |Linked List||
 094 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [Python](./python/094_Binary_Tree_Inorder_Traversal.py) | Medium         |Linked List||
 098 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | [Python](./python/098_Validate_Binary_Search_Tree.py) | Medium         |Tree||
+100 | [Same Tree](https://leetcode.com/problems/same-tree/) | [Python](./python/100_Same_Tree.py) | Easy         |Tree||
 101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | [Python](./python/101_Symmetric_Tree.py) | Easy         |Tree||
 102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [Python](./python/102_Binary_Tree_Level_Order_Traversal.py) | Medium         |Tree||
 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Python](./python/104_Maximum_Depth_of_Binary_Tree.py) | Easy         |Tree||
+105 | [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | [Python](./python/105_Construct_Binary_Tree_from_Preorder_and_Inorder_Traversal.py) | Medium         |Tree||
 108 | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | [Python](./python/108_Convert_Sorted_Array_to_Binary_Search_Tree.py) | Easy         |Tree||
 110 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | [Python](./python/110_Balanced_Binary_Tree.py) | Easy         |Tree||
 114 | [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) | [Python](./python/114_Flatten_Binary_Tree_to_Linked_List.py) | Medium         |Tree||
@@ -95,6 +97,7 @@ Today I Learned
 706 | [Design HashMap](https://leetcode.com/problems/design-hashmap/) | [Python](./python/706_Design_HashMap.py) | Easy         |Hash Table / Design||
 739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | [Python](./python/739_Daily_Temperatures.py) | Medium         |Stack / Hash Table||
 743 | [Network Delay Time](https://leetcode.com/problems/network-delay-time/) | [Python](./python/743_Network_Delay_Time.py) | Medium         |Heap/BFS||
+763 | [Partition Labels](https://leetcode.com/problems/partition-labels/) | [Python](./python/763_Partition_Labels.py) | Easy         |Greedy||
 771 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) | [Python](./python/771_Jewels_and_Stones.py)/[Java](./java/src/main/java/_771_Jewels_and_Stones.java) | Easy         |Hash Table||
 783 | [Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes/) | [Python](./python/783_Minimum_Distance_Between_BST_Nodes.py) | Easy         |Tree||
 819 | [Most Common Word](https://leetcode.com/problems/most-common-word/) | [Python](./python/819_Most_Common_Word.py) / [Java](./java/src/main/java/_819_Most_Common_Word.java) | Easy         |String||
