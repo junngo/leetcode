@@ -23,6 +23,7 @@ Today I Learned
 022 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | [Python](./python/022_Generate_Parentheses.py) | Medium         |Backtracking||
 023 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [Python](./python/023_Merge_k_Sorted_Lists.py) | Hard         |Linked List||
 024 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | [Python](./python/024_Swap_Nodes_in_Pairs.py) | Medium         |Linked List||
+025 | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/) | [Python](./python/025_Reverse_Nodes_in_k_Group.py) | Hard         |Linked List||
 027 | [Remove Element](https://leetcode.com/problems/remove-element/) | [Python](./python/027_Remove_Element.py) | Easy         |Array||
 032 | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) | [Python](./python/032_Longest_Valid_Parentheses.py) | Hard         |String/DP||
 034 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [Python](./python/034_Find_First_and_Last_Position_of_Element_in_Sorted_Array.py) | Medium         |Array||
@@ -67,6 +68,7 @@ Today I Learned
 139 | [Word Break](https://leetcode.com/problems/word-break/) | [Python](./python/139_Word_Break.py) | Medium         |DP||
 146 | [LRU Cache](https://leetcode.com/problems/lru-cache/) | [Python](./python/146_LRU_Cache.py) | Medium         |||
 155 | [Min Stack](https://leetcode.com/problems/min-stack/) | [Python](./python/155_Min_Stack.py) | Easy         |Stack/Design||
+198 | [House Robber](https://leetcode.com/problems/house-robber/) | [Python](./python/198_House_Robber.py) | Medium         |Array/DP||
 199 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | [Python](./python/199_Binary_Tree_Right_Side_View.py) | Medium         |Tree||
 200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | [Python](./python/200_Number_of_Islands.py) | Medium         |Depth-first Search||
 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Python](./python/206_Reverse_Linked_List.py)/[Java](./java/src/main/java/_206_Reverse_Linked_List.java) | Easy         |Linked List||
