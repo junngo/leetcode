@@ -79,6 +79,7 @@ Today I Learned
 234 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | [Python](./python/234_Palindrome_Linked_List.py)/[Java](./java/src/main/java/_234_Palindrome_Linked_List.java) | Easy         |Linked List||
 238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [Python](./python/238_Product_of_Array_Except_Self.py) | Medium         |Array||
 239 | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | [Python](./python/239_Sliding_Window_Maximum.py) | Hard         |Heap||
+240 | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/) | [Python](./python/240_Search_a_2D_Matrix_II.py) | Medium         |Array||
 287 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | [Python](./python/287_Find_the_Duplicate_Number.py) | Medium         |||
 300 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | [Python](./python/300_Longest_Increasing_Subsequence.py) | Medium         |||
 310 | [Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/) | [Python](./python/310_Minimum_Height_Trees.py) | Medium         |Graph||
@@ -88,6 +89,9 @@ Today I Learned
 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | [Python](./python/344_Reverse_String.py) / [Java](./java/src/main/java/_344_Reverse_String.java) | Easy         |String / Two Pointers||
 347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | [Python](./python/347_Top_K_Frequent_Elements.py) | Medium         |Hash Table||
 349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | [Python](./python/349_Intersection_of_Two_Arrays.py) | Easy         |BS/Two Pointers||
+
+406 | [Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/) | [Python](./python/406_Queue_Reconstruction_by_Height.py) | Medium         |Array||
+
 455 | [Assign Cookies](https://leetcode.com/problems/assign-cookies/) | [Python](./python/455_Assign_Cookies.py) | Easy         |Greedy||
 509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | [Python](./python/509_Fibonacci_Number.py) | Easy         |Array/DP||
 543 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | [Python](./python/543_Diameter_of_Binary_Tree.py) | Easy         |Tree||
