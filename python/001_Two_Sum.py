@@ -9,7 +9,7 @@ return [0, 1].
 from typing import List
 
 class Solution:
-	def twoSum(self, nums: List[int], target: int) -> List[int]:
+    def twoSum(self, nums: List[int], target: int) -> List[int]:
         for i in range(len(nums)):
             find_data = target - nums[i]
             idx = i+1
